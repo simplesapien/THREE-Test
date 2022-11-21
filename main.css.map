@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;EACE,SAAS;EACT,UAAU;AACZ;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,YAAY;EACZ,aAAa;EACb,iBAAiB;AACnB,C","sources":["webpack:///./src/style.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n\nhtml, body {\n  overflow: hidden;\n}\n\ncanvas {\n  width: 100vw;\n  height: 100vh;\n  background: black;\n}"],"names":[],"sourceRoot":""}
